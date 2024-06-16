@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?
+[![header](https://capsule-render.vercel.app/api?
 type=rounded&color=timeGradient&text=Welcome%20to%20Jiyun's%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)](https://git.io/streak-stats)
 
