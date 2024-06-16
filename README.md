@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyunwoo02&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=90%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyunwoo02&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
 <!--![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=graywhite)-->
