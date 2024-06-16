@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Jiyun's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)](https://git.io/streak-stats)
 
 ![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=graywhite)
