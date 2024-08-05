@@ -17,7 +17,7 @@
 - 🌱 I’m currently participating in a project using "Django/Python/SQL/API/React/HTML/CSS/JavaScript"
 - 📫 How to reach me: jiyunwoo33@gmail.com or jiyunlotus@naver.com
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyunwoo02&count_bg=%235AB2D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyunwoo02&count_bg=%235AB2D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false width=100%)]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)](https://git.io/streak-stats)
 
