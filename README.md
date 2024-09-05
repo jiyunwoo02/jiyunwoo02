@@ -17,6 +17,20 @@
 - 🌱 I’m currently participating in a project using "Django/Python/SQL/React/HTML/CSS/JavaScript"
 - 📫 How to reach me: jiyunwoo33@gmail.com or jiyunlotus@naver.com
 
+***
+My Tool
+![](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)
+![](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)
+***
+
+My Stack
+![]
+***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyunwoo02&count_bg=%235AB2D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
 
