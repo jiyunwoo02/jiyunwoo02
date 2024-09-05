@@ -12,6 +12,7 @@
 -->
 
 <div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
 - 🔭 I’m currently in Kwangwoon University, Department of Information Convergence
@@ -82,4 +83,5 @@ My Sub Stack
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyunwoo02&theme=github&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
+
 </div>
