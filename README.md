@@ -75,7 +75,7 @@ My Sub Stack
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={jiyunwoo02}&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&theme=blue-green)
 
 ***
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
