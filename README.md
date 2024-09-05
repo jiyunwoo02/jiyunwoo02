@@ -73,7 +73,9 @@ My Sub Stack
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)](https://git.io/streak-stats) <!--![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=graywhite) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={jiyunwoo02}&theme=blue-green)
 
 ***
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
