@@ -70,12 +70,12 @@ My Sub Stack
 ***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyunwoo02&count_bg=%235AB2D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)](https://git.io/streak-stats) <!--![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=graywhite) -->
+<!--![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=graywhite) -->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&theme=blue-green)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)](https://git.io/streak-stats)
 
 ***
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
