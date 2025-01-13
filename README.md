@@ -76,8 +76,8 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&theme=blue-green)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)(https://git.io/streak-stats)]
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&theme=blue-green)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)(https://git.io/streak-stats)]-->
 
 ***
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
