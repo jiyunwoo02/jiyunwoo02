@@ -9,6 +9,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ⚡ I'm working as an intern in Backend Development
+- 🌱 I’m participating in a project using "Django/Python/HTML/CSS/JavaScript/jQuery"
 -->
 
 <div align="center">
@@ -16,8 +19,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
 - 🔭 I’m currently a senior at Kwangwoon University, Department of Information Convergence
-- ⚡ I'm working as an intern in Backend Development
-- 🌱 I’m participating in a project using "Django/Python/HTML/CSS/JavaScript/jQuery"
 - 📫 How to reach me: jiyunwoo33@gmail.com or jiyunlotus@naver.com
 
 ***
