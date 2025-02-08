@@ -21,6 +21,7 @@
 - 🔭 I’m currently a senior at Kwangwoon University, Department of Information Convergence
 - 📫 How to reach me: jiyunwoo33@gmail.com or jiyunlotus@naver.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)](https://github.com/jiyunwoo02/github-readme-stats)
 [![Jiyun's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
 
 ***
