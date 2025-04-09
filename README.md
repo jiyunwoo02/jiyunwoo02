@@ -12,13 +12,13 @@
 
 - ⚡ I'm working as an intern in Backend Development
 - 🌱 I’m participating in a project using "Django/Python/HTML/CSS/JavaScript/jQuery"
+- 🔭 I’m currently a senior at Kwangwoon University, Department of Information Convergence
 -->
 
 <div align="center">
     
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
-- 🔭 I’m currently a senior at Kwangwoon University, Department of Information Convergence
 - 📫 How to reach me: jiyunwoo33@gmail.com or jiyunlotus@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)](https://github.com/jiyunwoo02/github-readme-stats)
