@@ -28,7 +28,7 @@
 
 [![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
 
-
+![footer](https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&animation=fadeIn)
 <!-- ***
 
 ## My Main Stack
