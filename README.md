@@ -20,7 +20,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS</h2></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
