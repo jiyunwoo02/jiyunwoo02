@@ -27,10 +27,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)](https://github.com/jiyunwoo02/github-readme-stats)
 
 
-[![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
-
 <!-- ***
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyunwoo)](https://solved.ac/jiyunwoo/)
+
+[![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
 ## My Main Stack
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
