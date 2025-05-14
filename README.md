@@ -18,7 +18,7 @@
 
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyunwoo)](https://solved.ac/jiyunwoo/)
