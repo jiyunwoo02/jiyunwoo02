@@ -38,14 +38,17 @@
 
 </div>
   <br>
-  
-[![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)](https://github.com/jiyunwoo02/github-readme-stats)
 <br>
 
+[![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
+<br>
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+
 <!-- ***
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyunwoo)](https://solved.ac/jiyunwoo/)
 
