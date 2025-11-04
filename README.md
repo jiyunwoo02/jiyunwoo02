@@ -73,10 +73,10 @@ FrontEnd & Backend Developer | AI/SW Application Engineer
 
 <div align="center">
 
-📰 [**Lost in the middle 논문 리뷰**](https://velog.io/@jiyunwoo/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Lost-in-the-Middle-How-Language-Models-Use-Long-Contexts)  
-🧠 [**RAG 성능 측정: RAGAS**](https://velog.io/@jiyunwoo/RAG-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-RAGAS)
-📊 [**LangGraph 이론 정리**](https://velog.io/@jiyunwoo/LangGraph-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC)
-🎨 [**RAG 파이프라인 내부 탐구 & Streamlit 설계**](https://velog.io/@jiyunwoo/RAG-Pipeline-%EB%82%B4%EB%B6%80-%ED%83%90%EA%B5%AC)
+- 📰 [**Lost in the middle 논문 리뷰**](https://velog.io/@jiyunwoo/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Lost-in-the-Middle-How-Language-Models-Use-Long-Contexts)  
+- 🧠 [**RAG 성능 측정: RAGAS**](https://velog.io/@jiyunwoo/RAG-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-RAGAS)
+- 📊 [**LangGraph 이론 정리**](https://velog.io/@jiyunwoo/LangGraph-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC)
+- 🎨 [**RAG 파이프라인 내부 탐구 & Streamlit 설계**](https://velog.io/@jiyunwoo/RAG-Pipeline-%EB%82%B4%EB%B6%80-%ED%83%90%EA%B5%AC)
 
 <br>
 
