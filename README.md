@@ -1,126 +1,91 @@
-## Hi there 👋
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- ⚡ I'm working as an intern in Backend Development
-- 🌱 I’m participating in a project using "Django/Python/HTML/CSS/JavaScript/jQuery"
-- 🔭 I’m currently a senior at Kwangwoon University, Department of Information Convergence
-- 📫 How to reach me: jiyunwoo33@gmail.com or jiyunlotus@naver.com
--->
-
+<!-- HEADER -->
 <div align="center">
-    
-![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20Github&fontSize=40&animation=fadeIn)
 
-<div align=center><h2>📚 STACKS</h2></div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
-    <br>
+![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20GitHub&fontSize=40&animation=fadeIn)
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css3-663399?style=for-the-badge&logo=CSS3&logoColor=white"> 
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+### 👋 Hi, I'm **Jiyun Woo**  
+Backend Developer | AI Application Engineer  
 
-<br>
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </div>
-  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)](https://github.com/jiyunwoo02/github-readme-stats)
-<br>
+---
 
-[![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://github.com/jiyunwoo/velog-readme-stats)
-<br>
+## 🧠 About Me
+- 💡 Interested in **Retrieval-Augmented Generation (RAG)** and **AI backend systems**
+- ⚙️ Currently working on **enterprise-level RAG PoC projects** (Milvus, BM25, SPLADE)
+- 🧩 Skilled in backend API design, data processing, and evaluation pipeline development  
+- 🎓 Senior at Kwangwoon University, Department of Information Convergence  
+- 📫 Contact: **jiyunwoo33@gmail.com**
 
+---
 
-<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)-->
+## 🚀 Projects
 
+### 🧭 **KISTEP RAG Demo Service (2024.07.25 ~ 08.17)**
+- Built a **Streamlit-based RAG demo** for document QA  
+- Designed pipeline for document embedding and retrieval  
+- Integrated answer generation and visualization  
 
-<!-- ***
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyunwoo)](https://solved.ac/jiyunwoo/)
+### 🧩 **Seoul Institute RAG PoC (2024.08.18 ~ ongoing)**
+- Designed **RRF-based sparse-dense retrieval** pipeline using Milvus  
+- Automated evaluation metrics (Precision, Recall, MRR, Faithfulness)  
+- Built HTML-based evaluation reporting system  
 
+### 🏙️ **Busan & Seoul Asset Management RAG PoC (2024.09.25 ~ 10.02)**
+- Implemented **multi-organization document retrieval**  
+- Conducted **ranking and evaluation** experiments  
+- Generated reproducible metrics for search quality validation  
 
+---
 
-![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=radical)
-<br>
-## My Main Stack
+## 🧰 Tech Stack
 
+<div align="center">
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🔹 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-***
-## My Sub Stack
+### 🔹 Backend / Framework
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### 🔹 Database / Vector DB
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 🔹 Tools
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-***
-## My Tool
+</div>
 
-![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)
-![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+---
 
-![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+## 📊 GitHub Overview
 
-![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+<div align="center">
 
-***
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact&theme=default)](https://github.com/jiyunwoo02/github-readme-stats)
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyunwoo02&count_bg=%235AB2D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]-->
+[![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://velog.io/@jiyunwoo)
 
-<!--![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyunwoo02&show_icons=true&theme=graywhite) -->
+</div>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact)-->
+---
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&theme=blue-green)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiyunwoo02)(https://git.io/streak-stats)]-->
+## 🌱 Currently Learning
+- Dense & Sparse Retrieval Fusion (RRF, SPLADE)
+- LLM Answer Faithfulness Evaluation  
+- RAG Pipeline Optimization for Real-world Documents  
 
-<!--***
-<!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyunwoo02&theme=github&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
-</a>
+---
 
+<div align="center">
+
+⭐ _“Build things that connect knowledge and people.”_  
 </div>
