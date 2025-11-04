@@ -21,17 +21,17 @@ FrontEnd & Backend Developer | AI/SW Application Engineer
 
 ## 🚀 2025 AgileSoDA Projects
 
-### 🧭 **KISTEP RAG Demo Service (2024.07.25 ~ 08.17)**
+### 🧭 **KISTEP RAG Demo Service (2025.07.25 ~ 2025.08.17)**
 - Built a **Streamlit-based RAG demo** for document QA  
 - Designed pipeline for document embedding and retrieval  
 - Integrated answer generation and visualization  
 
-### 🧩 **Seoul Institute RAG PoC (2024.08.18 ~ ongoing)**
+### 🧩 **Seoul Institute RAG PoC (2025.08.18 ~ ongoing)**
 - Designed **RRF-based sparse-dense retrieval** pipeline using Milvus  
 - Automated evaluation metrics (Precision, Recall, MRR, Faithfulness)  
 - Built HTML-based evaluation reporting system  
 
-### 🏙️ **Busan & Seoul Asset Management RAG PoC (2024.09.25 ~ 10.02)**
+### 🏙️ **Busan & Seoul Asset Management RAG Support (2025.09.25 ~ 2025.10.02)**
 - Implemented **multi-organization document retrieval**  
 - Conducted **ranking and evaluation** experiments  
 - Generated reproducible metrics for search quality validation  
