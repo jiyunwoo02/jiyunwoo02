@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20GitHub&fontSize=40&animation=fadeIn)
 
 ### 👋 Hi, I'm **Jiyun Woo**  
-Backend Developer | AI Application Engineer  
+FrontEnd & Backend Developer | AI/SW Application Engineer  
 
 </div>
 
@@ -19,7 +19,7 @@ Backend Developer | AI Application Engineer
 
 ---
 
-## 🚀 Projects
+## 🚀 2025 AgileSoDA Projects
 
 ### 🧭 **KISTEP RAG Demo Service (2024.07.25 ~ 08.17)**
 - Built a **Streamlit-based RAG demo** for document QA  
@@ -80,7 +80,7 @@ Backend Developer | AI Application Engineer
 
 ## 🌱 Currently Learning
 - Dense & Sparse Retrieval Fusion (RRF, SPLADE)
-- LLM Answer Faithfulness Evaluation  
+- LLM Evaluation  
 - RAG Pipeline Optimization for Real-world Documents  
 
 ---
