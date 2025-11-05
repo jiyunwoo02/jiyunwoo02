@@ -31,7 +31,7 @@ FrontEnd & Backend Developer | AI/SW Application Engineer
 - Automated evaluation metrics (Precision, Recall, MRR, Faithfulness)  
 - Built HTML-based evaluation reporting system  
 
-### 🏙️ **Busan & Seoul Asset Management RAG Support (2025.09.25 ~ 2025.10.02)**
+### 🏙️ **Seoul Asset Management RAG Support (2025.09.25 ~ 2025.10.02)**
 - Implemented **multi-organization document retrieval**  
 - Conducted **ranking and evaluation** experiments  
 - Generated reproducible metrics for search quality validation  
