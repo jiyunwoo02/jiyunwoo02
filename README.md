@@ -21,20 +21,36 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ## 🚀 2025 AgileSoDA Projects
 
-### 🧭 **KISTEP RAG Demo Service (2025.07.25 ~ 2025.08.17)**
-- Built a **Streamlit-based RAG demo** for document QA  
-- Designed pipeline for document embedding and retrieval  
-- Integrated answer generation and visualization  
+### 🧭 **KISTEP RAG Demo Service (2024.07.25 ~ 2024.08.17)**
 
-### 🧩 **Seoul Institute RAG PoC (2025.08.18 ~ ongoing)**
-- Designed **RRF-based sparse-dense retrieval** pipeline using Milvus  
-- Automated evaluation metrics (Precision, Recall, MRR, Faithfulness)  
-- Built HTML-based evaluation reporting system  
+* Developed a **Streamlit-based Retrieval-Augmented Generation (RAG)** demo service
+* Built **document embedding and retrieval pipeline** for real-time question answering
+* Designed **interactive frontend visualization** using Streamlit
 
-### 🏙️ **Seoul Asset Management RAG Support (2025.09.25 ~ 2025.10.02)**
-- Implemented **multi-organization document retrieval**  
-- Conducted **ranking and evaluation** experiments  
-- Generated reproducible metrics for search quality validation  
+---
+
+### 🧩 **Seoul Institute RAG PoC (2024.08.18 ~ ongoing)**
+
+* Conducted **hybrid retrieval experiments** combining BM25 and sparse embeddings (RRF-based)
+* Automated **LLM answer quality and faithfulness evaluation**
+* Generated **HTML-based evaluation reports** with metric computation (Precision, Recall, MRR)
+
+---
+
+### 🏙️ **Seoul Asset Management RAG Support (2024.09.25 ~ 2024.10.02)**
+
+* Diagnosed **RAG system performance issues** and analyzed causes of degradation
+* Conducted **search performance measurement** and documentation
+* Proposed **system enhancement strategies** for improved retrieval accuracy
+
+---
+
+### 📄 **WiseItech Trade Document Information Extraction (NER) Analysis (2024.11.06 ~ ongoing)**
+
+* Built **NER system for CI/PL trade documents** (≈3,000 labeled samples)
+* Trained **LiLT2-based model** (94/78 classes, F1-Score 88–90%)
+* Designed **error taxonomy** with 7 FP/FN types across 34 cases
+* Developed **Streamlit evaluation dashboard** for accuracy filtering and entity-wise analysis  
 
 ---
 
