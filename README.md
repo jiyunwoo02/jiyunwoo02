@@ -21,7 +21,7 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ## 🚀 2025 AgileSoDA Projects
 
-### 🧭 **KISTEP RAG Demo Service (2024.07.25 ~ 2024.08.17)**
+### 🧭 **KISTEP RAG Demo Service (2025.07.25 ~ 2025.08.17)**
 
 * Developed a **Streamlit-based Retrieval-Augmented Generation (RAG)** demo service
 * Built **document embedding and retrieval pipeline** for real-time question answering
@@ -29,7 +29,7 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### 🧩 **Seoul Institute RAG PoC (2024.08.18 ~ ongoing)**
+### 🧩 **Seoul Institute RAG PoC (2025.08.18 ~ ongoing)**
 
 * Conducted **hybrid retrieval experiments** combining BM25 and sparse embeddings (RRF-based)
 * Automated **LLM answer quality and faithfulness evaluation**
@@ -37,7 +37,7 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### 🏙️ **Seoul Asset Management RAG Support (2024.09.25 ~ 2024.10.02)**
+### 🏙️ **Seoul Asset Management RAG Support (2025.09.25 ~ 2025.10.02)**
 
 * Diagnosed **RAG system performance issues** and analyzed causes of degradation
 * Conducted **search performance measurement** and documentation
@@ -45,7 +45,7 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### 📄 **WiseItech Trade Document Information Extraction (NER) Analysis (2024.11.06 ~ ongoing)**
+### 📄 **WiseItech Trade Document Information Extraction (NER) Analysis (2025.11.06 ~ 2025.11.14)**
 
 * Built **NER system for CI/PL trade documents** (≈3,000 labeled samples)
 * Trained **LiLT2-based model** (94/78 classes, F1-Score 88–90%)
