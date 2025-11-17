@@ -54,6 +54,15 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ---
 
+### 📄 **Korea Research Institute of Standards and Science (KRISS) RAG Project (2025.11.14 ~ Present)**
+
+* Building a **RAG system for internal research reports**, following the overall design of the Seoul Institute RAG PoC
+* Conducting **hybrid retrieval experiments** (BM25 + Sparse Embedding)
+* Automating **LLM answer quality and faithfulness evaluation**
+* Developing **evaluation pipeline and HTML-based reporting tools**
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
