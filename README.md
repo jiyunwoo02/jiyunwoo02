@@ -29,7 +29,7 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### 🧩 **Seoul Institute RAG PoC (2025.08.18 ~ ongoing)**
+### 🧩 **Seoul Institute RAG PoC (2025.08.18 ~ 2025.11.28)**
 
 * Conducted **hybrid retrieval experiments** combining BM25 and sparse embeddings (RRF-based)
 * Automated **LLM answer quality and faithfulness evaluation**
@@ -60,6 +60,17 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 * Conducting **hybrid retrieval experiments** (BM25 + Sparse Embedding)
 * Automating **LLM answer quality and faithfulness evaluation**
 * Developing **evaluation pipeline and HTML-based reporting tools**
+
+---
+
+### 🚗📑 **Hyundai Mobis & Hyundai Marine Proposal Development (2025.11.27 ~ 진행 중)**
+
+* Developed proposals for **AI-driven cost analysis** (Hyundai Mobis) and **AI-assisted insurance subscription design** (Hyundai Marine)
+* Drafted **proposal documentation** including ReadMe structure
+* Built **DB integration workflow** for structured storage and retrieval
+* Implemented **key–value extraction and normalization** for document data
+* Designed **prompt strategies** aligned with task requirements
+* Parsed and ingested **structured and unstructured data** from documents and images
 
 ---
 
