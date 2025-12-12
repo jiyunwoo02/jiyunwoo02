@@ -63,7 +63,7 @@ FrontEnd & Backend Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### 🚗📑 **Hyundai Mobis & Hyundai Marine Proposal Development (2025.11.27 ~ 진행 중)**
+### 🚗📑 **Hyundai Mobis & Hyundai Marine Proposal Development (2025.11.27 ~ 2025.12.11)**
 
 * Developed proposals for **AI-driven cost analysis** (Hyundai Mobis) and **AI-assisted insurance subscription design** (Hyundai Marine)
 * Drafted **proposal documentation** including ReadMe structure
