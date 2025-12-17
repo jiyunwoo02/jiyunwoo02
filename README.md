@@ -31,13 +31,13 @@ FE & BE Developer | AI Application Engineer | Data Scientist
 
 ### NLP / Document AI (2025.11.06 ~ 2025.11.14)
 
-* Trade Document NER (WiseItech): LiLT2 기반 NER 모델 학습 (F1 88–90%), 오류 유형 분석 및 대시보드 개발 (2025.11.06 ~ 2025.11.14)
+* WiseItech Trade Document NER: LiLT2 기반 NER 모델 학습 (F1 88–90%), 오류 유형 분석 및 대시보드 개발 (2025.11.06 ~ 2025.11.14)
 
 ---
 
 ### Applied AI
 
-* Hyundai Mobis / Hyundai Marine Proposals: 비용 분석·보험 설계 지원 AI 기획, 문서 파싱 및 DB 연계 관련 제안서 작성(2025.11.27 ~ 2025.12.11)
+* Hyundai Mobis / Hyundai Marine Proposals: 비용 분석·보험 설계 지원 AI 기획, 문서 파싱 및 DB 연계 관련 제안서 작성 (2025.11.27 ~ 2025.12.11)
 
 ---
 
