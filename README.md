@@ -11,17 +11,17 @@ FE & BE Developer | AI Application Engineer | Data Scientist
 ---
 
 ## 🧠 About Me
-- 💡 Interested in **Retrieval-Augmented Generation (RAG)** and **AI-driven web applications**
-- ⚙️ Experienced in full-stack development: **Backend APIs**, **Frontend UI**, and **Evaluation Systems**
-- 🧩 Skilled in integrating LLMs with real-world data pipelines  
+- 💡 관심 분야: RAG, LLM Evaluation, AI-driven Web Services
+- ⚙️ 백엔드·프론트엔드·데이터 파이프라인을 아우르는 End-to-End AI 서비스 개발 경험
+- 🧩 Hybrid Retrieval (Dense + Sparse + RRF) 및 평가 자동화 중심으로 프로젝트 수행 중  
 - 🎓 Senior at Kwangwoon University, Department of Information Convergence  
 - 📫 Contact: **jiyunwoo33@gmail.com**
 
 ---
 
-## 🚀 2025 AgileSoDA Projects
+## 🚀 2025 AgileSoDA 선임연구원 Project
 
-### 🧭 **KISTEP RAG Demo Service (2025.07.25 ~ 2025.08.17)**
+### 🧭 RAG Systems
 
 * Developed a **Streamlit-based Retrieval-Augmented Generation (RAG)** demo service
 * Built **document embedding and retrieval pipeline** for real-time question answering
@@ -29,48 +29,23 @@ FE & BE Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### 🧩 **Seoul Institute RAG PoC (2025.08.18 ~ 2025.11.28)**
+### RAG System
 
-* Conducted **hybrid retrieval experiments** combining BM25 and sparse embeddings (RRF-based)
-* Automated **LLM answer quality and faithfulness evaluation**
-* Generated **HTML-based evaluation reports** with metric computation (Precision, Recall, MRR)
-
----
-
-### 🏙️ **Seoul Asset Management RAG Support (2025.09.25 ~ 2025.10.02)**
-
-* Diagnosed **RAG system performance issues** and analyzed causes of degradation
-* Conducted **search performance measurement** and documentation
-* Proposed **system enhancement strategies** for improved retrieval accuracy
+* KISTEP RAG Demo: Streamlit 기반 RAG 데모 서비스, 문서 임베딩·검색 파이프라인 구축 (2025.07.25 ~ 2025.08.17)
+* Seoul Institute RAG PoC: BM25 + Sparse Embedding 기반 Hybrid Retrieval 실험, Precision/Recall/MRR 자동 평가 (2025.08.18 ~ 2025.11.28)
+* KRISS RAG Project : 내부 연구 문서 대상 RAG 시스템 구축 및 평가 파이프라인 고도화 (2025.11 ~ Ongoing)
 
 ---
 
-### 📄 **WiseItech Trade Document Information Extraction (NER) Analysis (2025.11.06 ~ 2025.11.14)**
+### NLP / Document AI (2025.11.06 ~ 2025.11.14)
 
-* Built **NER system for CI/PL trade documents** (≈3,000 labeled samples)
-* Trained **LiLT2-based model** (94/78 classes, F1-Score 88–90%)
-* Designed **error taxonomy** with 7 FP/FN types across 34 cases
-* Developed **Streamlit evaluation dashboard** for accuracy filtering and entity-wise analysis  
+* Trade Document NER (WiseItech): LiLT2 기반 NER 모델 학습 (F1 88–90%), 오류 유형 분석 및 대시보드 개발 (2025.11.06 ~ 2025.11.14)
 
 ---
 
-### 📄 **Korea Research Institute of Standards and Science (KRISS) RAG Project (2025.11.14 ~ Present)**
+### Applied AI
 
-* Building a **RAG system for internal research reports**, following the overall design of the Seoul Institute RAG PoC
-* Conducting **hybrid retrieval experiments** (BM25 + Sparse Embedding)
-* Automating **LLM answer quality and faithfulness evaluation**
-* Developing **evaluation pipeline and HTML-based reporting tools**
-
----
-
-### 🚗📑 **Hyundai Mobis & Hyundai Marine Proposal Development (2025.11.27 ~ 2025.12.11)**
-
-* Developed proposals for **AI-driven cost analysis** (Hyundai Mobis) and **AI-assisted insurance subscription design** (Hyundai Marine)
-* Drafted **proposal documentation** including ReadMe structure
-* Built **DB integration workflow** for structured storage and retrieval
-* Implemented **key–value extraction and normalization** for document data
-* Designed **prompt strategies** aligned with task requirements
-* Parsed and ingested **structured and unstructured data** from documents and images
+* Hyundai Mobis / Hyundai Marine Proposals: 비용 분석·보험 설계 지원 AI 기획, 문서 파싱 및 DB 연계 관련 제안서 작성(2025.11.27 ~ 2025.12.11)
 
 ---
 
@@ -107,6 +82,8 @@ FE & BE Developer | AI Application Engineer | Data Scientist
 
 ## ✍️ Velog Posts
 
+👉 [Jiyun's Velog Link](https://velog.io/@jiyunwoo/posts))
+- 📊 [서울연구원 RAG PoC 회고](https://velog.io/@jiyunwoo/RAG-PoC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 - 📰 [**Lost in the middle 논문 리뷰**](https://velog.io/@jiyunwoo/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Lost-in-the-Middle-How-Language-Models-Use-Long-Contexts)  
 - 🧠 [**RAG 성능 측정: RAGAS**](https://velog.io/@jiyunwoo/RAG-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-RAGAS)
 - 📊 [**LangGraph 이론 정리**](https://velog.io/@jiyunwoo/LangGraph-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC)
