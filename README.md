@@ -29,7 +29,7 @@ FE & BE Developer | AI Application Engineer | Data Scientist
 
 ---
 
-### NLP / Document AI (2025.11.06 ~ 2025.11.14)
+### NLP / Document AI
 
 * WiseItech Trade Document NER: LiLT2 기반 NER 모델 학습 (F1 88–90%), 오류 유형 분석 및 대시보드 개발 (2025.11.06 ~ 2025.11.14)
 
