@@ -21,14 +21,6 @@ FE & BE Developer | AI Application Engineer | Data Scientist
 
 ## 🚀 2025 AgileSoDA 선임연구원 Project
 
-### 🧭 RAG Systems
-
-* Developed a **Streamlit-based Retrieval-Augmented Generation (RAG)** demo service
-* Built **document embedding and retrieval pipeline** for real-time question answering
-* Designed **interactive frontend visualization** using Streamlit
-
----
-
 ### RAG System
 
 * KISTEP RAG Demo: Streamlit 기반 RAG 데모 서비스, 문서 임베딩·검색 파이프라인 구축 (2025.07.25 ~ 2025.08.17)
