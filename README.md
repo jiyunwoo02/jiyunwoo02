@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20GitHub&fontSize=40&animation=fadeIn)
 
 ### 👋 Hi, I'm **Jiyun Woo**  
-Data Scientist
 
 </div>
 
@@ -19,7 +18,7 @@ Data Scientist
 
 ---
 
-## 🚀 2025 AgileSoDA 선임연구원 Project
+## 🚀 2025 AgileSoDA Project
 
 ### RAG System
 
