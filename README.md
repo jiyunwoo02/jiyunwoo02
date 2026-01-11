@@ -91,16 +91,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyunwoo02&layout=compact&theme=default)](https://github.com/jiyunwoo02/github-readme-stats)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 - Dense & Sparse Retrieval Fusion (RRF, SPLADE)
 - Vector retrieval fusion (**Sparse + Dense + RRF**)
