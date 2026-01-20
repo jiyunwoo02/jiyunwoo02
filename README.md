@@ -34,12 +34,6 @@
 
 ---
 
-### Applied AI
-
-* Proposals: 비용 분석·보험 설계 지원 AI 기획, 문서 파싱 및 DB 연계 관련 제안서 작성 (2025.11.27 ~ 2025.12.11)
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
