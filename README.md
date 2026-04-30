@@ -17,23 +17,6 @@
 - 📫 Contact: **jiyunwoo33@gmail.com**
 
 ---
-
-## 🚀 2025 AgileSoDA Project
-
-### RAG System
-
-* RAG Demo: Streamlit 기반 RAG 데모 서비스, 문서 임베딩·검색 파이프라인 구축 (2025.07.25 ~ 2025.08.17)
-* RAG PoC: BM25 + Sparse Embedding 기반 Hybrid Retrieval 실험, Precision/Recall/MRR 자동 평가 (2025.08.18 ~ 2025.11.28)
-* RAG Project : 내부 연구 문서 대상 RAG 시스템 구축 및 평가 파이프라인 고도화 (2025.11 ~ Ongoing)
-
----
-
-### NLP / Document AI
-
-* Trade Document NER: LiLT2 기반 NER 모델 학습 (F1 88–90%), 오류 유형 분석 및 대시보드 개발 (2025.11.06 ~ 2025.11.14)
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
