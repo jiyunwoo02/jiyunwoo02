@@ -12,7 +12,6 @@
 ## 🧠 About Me
 - 💡 관심 분야: RAG, LLM Evaluation, AI-driven Web Services
 - ⚙️ 백엔드·프론트엔드·데이터 파이프라인을 아우르는 End-to-End AI 서비스 개발 경험
-- 🧩 Hybrid Retrieval (Dense + Sparse + RRF) 및 평가 자동화 중심으로 프로젝트 수행 중  
 - 🎓 Senior at Kwangwoon University, Department of Information Convergence  
 - 📫 Contact: **jiyunwoo33@gmail.com**
 
@@ -66,14 +65,6 @@
 [![Jiyun's Velog](https://velog-readme-stats.vercel.app/api?name=jiyunwoo)](https://velog.io/@jiyunwoo)
 
 </div>
-
----
-
-## 🌱 Currently Learning
-- Dense & Sparse Retrieval Fusion (RRF, SPLADE)
-- Vector retrieval fusion (**Sparse + Dense + RRF**)
-- LLM **faithfulness & context evaluation** Evaluation  
-- RAG Pipeline Optimization for Real-world Documents
 
 ---
 
