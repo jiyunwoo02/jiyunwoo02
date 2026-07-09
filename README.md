@@ -13,7 +13,7 @@
 - 💡 관심 분야: RAG, LLM Evaluation, AI-driven Web Services
 - ⚙️ 백엔드·프론트엔드·데이터 파이프라인을 아우르는 End-to-End AI 서비스 개발 경험
 - 🎓 Senior at Kwangwoon University, Department of Information Convergence  
-- 📫 Contact: **jiyunwoo33@gmail.com**
+<!-- 📫 Contact: **jiyunwoo33@gmail.com** -->
 
 ---
 ## 🧰 Tech Stack
