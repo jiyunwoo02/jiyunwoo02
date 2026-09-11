@@ -54,8 +54,9 @@
 ---
 
 ## ✍️ Velog Posts
+I document what I learn and what I discover while building systems.
 
-👉 [Jiyun's Velog Link](https://velog.io/@jiyunwoo/posts)
+👉 [Visit my Velog](https://velog.io/@jiyunwoo/posts)
 - 📊 [**RAG PoC 회고**](https://velog.io/@jiyunwoo/RAG-PoC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 - 📰 [**Lost in the middle 논문 리뷰**](https://velog.io/@jiyunwoo/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Lost-in-the-Middle-How-Language-Models-Use-Long-Contexts)  
 - 🧠 [**RAG 성능 측정: RAGAS**](https://velog.io/@jiyunwoo/RAG-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-RAGAS)
@@ -75,4 +76,6 @@
 <div align="center">
 
 ⭐ _“Build things that connect knowledge and people.”_  
+🌱 Always learning, building, and improving.
+
 </div>
