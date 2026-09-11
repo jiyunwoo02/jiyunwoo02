@@ -76,6 +76,6 @@ I document what I learn and what I discover while building systems.
 <div align="center">
 
 ⭐ _“Build things that connect knowledge and people.”_  
-🌱 Always learning, building, and improving.
+🌱 _“Always learning, building, and improving.”_ 
 
 </div>
