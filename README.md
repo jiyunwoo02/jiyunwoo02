@@ -10,9 +10,12 @@
 ---
 
 ## 🧠 About Me
-- 💡 관심 분야: RAG, LLM Evaluation, AI-driven Web Services
-- ⚙️ 백엔드·프론트엔드·데이터 파이프라인을 아우르는 End-to-End AI 서비스 개발 경험
-- 🎓 Senior at Kwangwoon University, Department of Information Convergence  
+> I build AI services that connect knowledge, data, and people.
+- 🤖 Interested in RAG, LLM Evaluation, AI Agents, and AI-driven Web Services
+- 🔍 Experienced in improving RAG systems through retrieval analysis, evaluation, and iterative optimization
+- ⚙️ Experienced in End-to-End AI service development from data preparation to API/service integration
+- 📊 Focused on understanding why an AI system fails and turning evaluation results into concrete improvements
+- 📝 Enjoy documenting technical decisions, experiments, and lessons learned
 <!-- 📫 Contact: **jiyunwoo33@gmail.com** -->
 
 ---
