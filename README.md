@@ -1,8 +1,6 @@
-\<!-- HEADER -->
+<div align="center">
 
-\<div align="center">
-
-
+![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Welcome%20to%20Jiyun's%20GitHub&fontSize=40&animation=fadeIn)
 
 ### 👋 Hi, I'm **Jiyun Woo**
 
