@@ -8,7 +8,7 @@
 
 Building AI solutions from data to intelligent services.
 
-\</div>
+</div>
 
 ---
 
@@ -68,7 +68,6 @@ Building AI solutions from data to intelligent services.
 \<div>
 &#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
 &#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)"/>
 \</div>
 
 ### 🔹 Cloud, DevOps & Tools
