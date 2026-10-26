@@ -30,55 +30,55 @@ Building AI solutions from data to intelligent services.
 ### 🔹 Languages
 
 <div>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)"/>
+<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)"/>
 </div>
 
 ### 🔹 Data Science & Machine Learning
 
 <div>
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)"/>
 </div>
 
 ### 🔹 LLM, RAG & AI Agents
 
 <div>
-&#x20; \<img src="[https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langgraph\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge\&logo=milvus\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langgraph\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge\&logo=milvus\&logoColor=white)"/>
 </div>
 
 ### 🔹 Backend & Application Development
 
 <div>
-&#x20; \<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
 </div>
 
 ### 🔹 Database & Data Engineering
 
 <div>
-&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
 </div>
 
 ### 🔹 Cloud, DevOps & Tools
 
 <div>
-&#x20; \<img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)"/>
 </div>
 
 ---
