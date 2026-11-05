@@ -53,6 +53,7 @@ Building AI solutions from data to intelligent services.
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6D28D9?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </div>
 
 ### 🔹 Backend & Application Development
